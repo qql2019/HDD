@@ -1,0 +1,41 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cisst</groupId>
+  <artifactId>springboot-01</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.0.0.RELEASE</version>
+		<!-- 父项目的pom.xml文件的相对路径; 默认值是../pom.xml。 -->
+		<relativePath />
+	</parent>
+	<!--会被子模块继承该依赖 --> 
+	<dependencies>
+		<!-- spring-boot的web启动的jar包 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+	
+	<!-- spring-boot-starter-data-jpa -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-data-jpa</artifactId>
+</dependency>
+<!-- /mysql-connector-java --> 
+<dependency> 
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+  
+</dependency>
+<!-- mybatis-spring-boot-starter -->
+<dependency>
+    <groupId>org.mybatis.spring.boot</groupId>
+    <artifactId>mybatis-spring-boot-starter</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+	</dependencies>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112" version="1.8.0_112">
+<bootpath>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\resources.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\rt.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\sunrsasign.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\jsse.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\jce.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\charsets.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\jfr.jar"/>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\MyEclipse 2017 CI\binary\com.sun.java.jdk8.win32.x86_64_1.8.0.v112\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files (x86)\Java\jre1.8.0_66" version="1.8.0_66">
+<bootpath>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\resources.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\rt.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\jsse.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\jce.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\charsets.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\jfr.jar"/>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files (x86)\Java\jre1.8.0_66\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
